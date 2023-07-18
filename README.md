@@ -21,4 +21,6 @@ The project consists of three additional branchens:
 2. Backend Odata Serice (abap_cloud), CDS service
 3. Backend OData Service (standard_abap), SEGW service
 
-First deploy the UI5 app to your abap system or btp (1). Next install the OData service with abapGit in the system where your abap2UI5 apps are running. In new releases, use abap_cloud (2) and in older releases use (standard_abap).
+First install the OData service with abapGit in the system where your abap2UI5 apps are running (1). Next setup your detination in SAP BTP (2). Deploy now the UI5 app to your ABAP system or btp (3). Next configure SAP Build Workzone (4) and optionally start your app with SAP MObile Start (5).
+
+In on-premise scenarios you can skip stept (2)(4)(5) and follow (90) instead.
