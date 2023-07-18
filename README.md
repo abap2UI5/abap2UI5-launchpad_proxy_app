@@ -1,5 +1,5 @@
 ## Extension - abap2UI5 Service Integration
-#### Information
+### Information
 This project allows the integration of abap2UI5 apps with 
 * SAP Fiori Launchpad (on-premise)
 * SAP Build Workzone Launchpad (cloud)
@@ -14,7 +14,7 @@ And calls your abap2UI5 apps via an OData Service using the Destination Service:
 * SAP BTP ABAP Environment
 * S/4 On-Premise (via Cloud Conector)
 
-#### Installation
+### Installation
 The project consists of three additional branchens:
 1. Frontend UI5 application, deploy it to your abap system or btp
 2. Backend Odata Serice (abap_cloud), CDS service
@@ -24,5 +24,5 @@ First install the OData service with abapGit in the system where your abap2UI5 a
 <br>
 In on-premise scenarios you can skip stept (2)(4)(5) and follow (90) instead.
 
-#### FAQ
+### FAQ
 This project is still under construction. Your PRs and comments are welcome!
