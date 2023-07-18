@@ -18,13 +18,19 @@ And calls your abap2UI5 apps via an OData Service using the Destination Service:
 
 ### Installation
 The project consists of three additional branchens:
-1. Frontend UI5 application, deploy it to your abap system or btp
-2. Backend Odata Serice (abap_cloud), CDS service
-3. Backend OData Service (standard_abap), SEGW service
+* Frontend UI5 application, deploy it to your abap system or btp
+* Backend Odata Serice (abap_cloud), CDS service
+* Backend OData Service (standard_abap), SEGW service
 
-First install the OData service with abapGit in the system where your abap2UI5 apps are running (1). Next setup your detination in SAP BTP (2). Deploy now the UI5 app to your ABAP system or BTP (3). Next configure SAP Build Workzone (4) and optionally start your app with SAP Mobile Start (5).
-<br>
-In on-premise scenarios you can skip stept (2)(4)(5) and follow (90) instead.
+Follow this steps:
+1. Install the OData service with abapGit in the system where your abap2UI5 apps are running
+2. Setup your detination in SAP BTP
+3. Deploy now the UI5 app to your ABAP system or BTP
+4. Configure SAP Build Workzone
+5. Start your app with SAP Mobile Start (optional)
+   
+In on-premise scenario you can skip step (2)(4)(5) and do instead:
+* Configure SAP Fiori Launchpad
 
 ### FAQ
 This project is still under construction. Your PRs and comments are welcome!
