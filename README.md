@@ -18,9 +18,9 @@ And calls your abap2UI5 apps via an OData Service using the Destination Service:
 
 ### Installation
 The project consists of three additional branchens:
-* Frontend UI5 application, deploy it to your abap system or btp
-* Backend Odata Serice (abap_cloud), CDS service
-* Backend OData Service (standard_abap), SEGW service
+* UI5 application, deploy it to your abap system or btp
+* OData Serice (abap_cloud), CDS service
+* OData Service (standard_abap), SEGW service
 
 Follow this steps:
 1. Install the OData service with abapGit in the system where your abap2UI5 apps are running
