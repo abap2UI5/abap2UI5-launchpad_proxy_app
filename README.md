@@ -33,4 +33,4 @@ In on-premise scenario you can skip step (2)(4)(5) and do instead:
 * Configure SAP Fiori Launchpad
 
 ### FAQ
-This project is still under construction. Your PRs and comments are welcome!
+🚧 This project is still under construction. Your PRs and comments are welcome! 👷
