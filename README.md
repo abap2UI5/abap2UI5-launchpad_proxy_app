@@ -1,6 +1,6 @@
 ## Extension - abap2UI5 Service Integration
 ### Information
-This project allows the integration of abap2UI5 apps with 
+This project allows the integration of abap2UI5 apps to 
 * SAP Fiori Launchpad (on-premise)
 * SAP Build Workzone Launchpad (cloud)
 * SAP Mobile Start (device)
