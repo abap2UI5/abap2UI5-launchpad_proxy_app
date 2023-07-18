@@ -19,7 +19,7 @@ And calls your abap2UI5 apps via an OData Service using the Destination Service:
 ### Installation
 The project consists of three additional branchens:
 * UI5 application, deploy it to your abap system or btp
-* OData Serice (abap_cloud), CDS service
+* OData Service (abap_cloud), CDS service
 * OData Service (standard_abap), SEGW service
 
 Follow this steps:
