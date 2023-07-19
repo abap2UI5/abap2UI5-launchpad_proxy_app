@@ -1,5 +1,4 @@
 ## Extension - abap2UI5 Service Integration
-#### Features
 This repository enables the integration of abap2UI5 apps with the following services: 
 | SAP BTP Deployment  | SAP Build Workzone Launchpad | SAP Mobile Start |
 | ------------- | ------------- | ------------- |
