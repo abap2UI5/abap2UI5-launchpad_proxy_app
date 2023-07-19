@@ -10,7 +10,9 @@ Create the Warkzone Service and follow the following steps.
 2. Create App <br>
 <img width="700" alt="image" src="https://github.com/abap2UI5/ext-service_integration/assets/102328295/ffd6c3a6-6720-4f41-9da6-91316abcf8d2">
 <img width="700" alt="image" src="https://github.com/abap2UI5/ext-service_integration/assets/102328295/7d22f1cd-4271-4bf4-9ef1-7b65c6bc0b5b">
-<img width="700" alt="image" src="https://github.com/abap2UI5/ext-service_integration/assets/102328295/438d1b20-ac0b-406b-a36d-10e1e942c265">
+<img width="700" alt="image" src="https://github.com/abap2UI5/ext-service_integration/assets/102328295/024532da-c7f7-461a-8540-b82bf9cc57fe">
+<img width="700" alt="image" src="https://github.com/abap2UI5/ext-service_integration/assets/102328295/c37ac7f0-abf5-4dd6-875a-bc48662a45e8">
+
 <br><br>
 3. Add the App to a Role <br>
 (optionally use your customized roles instead of everyone)
