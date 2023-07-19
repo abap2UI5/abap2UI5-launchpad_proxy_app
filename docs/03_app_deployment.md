@@ -10,3 +10,8 @@
 
 Add to the controller the following onAfterRendering method:
 <img width="700" alt="image" src="https://github.com/abap2UI5/ext-service_integration/assets/102328295/60b89480-f6f6-48a2-bb99-0a6d40509b8f">
+
+<br>
+
+2. Deploy your App to SAP BTP (or to your ABAP system)
+
