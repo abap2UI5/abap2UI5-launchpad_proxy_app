@@ -7,7 +7,18 @@ This repository enables the integration of abap2UI5 apps with the following serv
 
 The abap2UI5 apps can remain unchanged in your backend systems and will be accessed remotely.
 
-#### Information
+| BTP Deployment  | Build Workzone Launchpad |
+| ------------- | ------------- |
+| <img width="300" alt="image" src="https://github.com/abap2UI5/ext-service_integration/assets/102328295/b6406c48-0b09-4f0e-b261-6d7f1a8892b2">  | C<img width="300" alt="image" src="https://github.com/abap2UI5/ext-service_integration/assets/102328295/e6e9da75-021a-45c4-a3c5-bb471d1aedb4">  |
+| Content Cell  | Content Cell  |
+
+
+
+
+
+
+
+#### Technical Background
 The project involves the encapsulation of abap2UI5 into a "fake" frontend UI5 app, which can be deployed to:
 * SAP BTP (Business Technology Platform)
 * ABAP Backend (S/4, R/3)
@@ -33,5 +44,5 @@ Follow these steps:
 In on-premise scenario you can skip step (2)(4)(5) and instead:
 * Configure SAP Fiori Launchpad
 
-### FAQ
-🚧 This project is still under construction. Your PRs and comments are welcome! 👷
+#### FAQ
+* your comments, questions, wishes and bugs are welcome, please create an [issue](https://github.com/abap2UI5/ext-service_integration/issues)
