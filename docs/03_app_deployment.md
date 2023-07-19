@@ -43,3 +43,5 @@ npm run deploy
 
 Check 
 <img width="700" alt="image" src="https://github.com/abap2UI5/ext-service_integration/assets/102328295/06231cea-19f5-42aa-ae8b-33146c30e639">
+It is now running with odata:
+<img width="700" alt="image" src="https://github.com/abap2UI5/ext-service_integration/assets/102328295/9617e6a0-61d1-419a-97ed-a16e7e69869c">
