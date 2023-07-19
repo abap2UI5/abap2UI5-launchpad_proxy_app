@@ -18,11 +18,6 @@ The abap2UI5 framework and apps are accessed through an OData Service, which can
 * S/4 On-Premise (via Cloud Connector)
 
 #### Installation
-The project consists of three additional branchens:
-* UI5 application, deploy it to your abap system or btp
-* OData Service (abap_cloud), CDS service
-* OData Service (standard_abap), SEGW service
-
 Follow these steps:
 1. Install the OData service with abapGit in the system where your abap2UI5 apps are running
 2. Setup your detination in SAP BTP
