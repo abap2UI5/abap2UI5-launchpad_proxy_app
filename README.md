@@ -10,6 +10,7 @@ The abap2UI5 apps can remain unchanged in your backend systems and will be acces
 | SAP BTP Deployment  | SAP Build Workzone Launchpad | SAP Mobile Start |
 | ------------- | ------------- | ------------- |
 | <img width="300" alt="image" src="https://github.com/abap2UI5/ext-service_integration/assets/102328295/b6406c48-0b09-4f0e-b261-6d7f1a8892b2">  | <img width="300" alt="image" src="https://github.com/abap2UI5/ext-service_integration/assets/102328295/e6e9da75-021a-45c4-a3c5-bb471d1aedb4">  | <img width="300" alt="image" src="https://github.com/abap2UI5/ext-service_integration/assets/102328295/207d4538-ceaa-4f7d-a7f1-a15412492188"> |
+| Use your abap2UI5 apps from everywhere | Call different apps with in a launchpad running on the the BTP| Use your mobile device and download SAP mobile start app for apple and android |
 
 #### Technical Background
 The project involves the encapsulation of abap2UI5 into a "fake" frontend UI5 app, which can be deployed to:
