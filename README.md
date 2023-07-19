@@ -3,18 +3,9 @@
 This project allows the integration of abap2UI5 apps to 
 * SAP Fiori Launchpad (on-premise)
 * SAP Build Workzone Launchpad (cloud)
-* SAP Mobile Start (device)
-
-### Functionality
+* SAP Mobile Start
   
-It encapsulates abap2UI5 into a frontend UI5 app which can be deployed to:
-* SAP BTP
-* ABAP Backend (S/4, R/3)
- 
-And calls your abap2UI5 apps via an OData Service using the Destination Service:
-* S/4 Cloud
-* SAP BTP ABAP Environment
-* S/4 On-Premise (via Cloud Conector)
+It encapsulates abap2UI5 into a frontend UI5 app which can be deployed to (1) SAP BTP or (2) ABAP Backend (S/4, R/3). It calls your abap2UI5 apps via an OData Service using the Destination Service. The abap2UI5 apps can be developed in (1) S/4 Cloud (2) SAP BTP ABAP Environment or (3) S/4 On-Premise (via Cloud Conector).
 
 ### Installation
 The project consists of three additional branchens:
