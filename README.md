@@ -12,7 +12,7 @@ The project involves the encapsulation of abap2UI5 into a "fake" frontend UI5 ap
 * SAP BTP (Business Technology Platform)
 * ABAP Backend (S/4, R/3)
 
-The abap2UI5 apps are accessed through an OData Service (Destination Service), which can connect to:
+The abap2UI5 framework and apps are accessed through an OData Service, which can connect to:
 * S/4 Public Cloud
 * SAP BTP ABAP Environment
 * S/4 On-Premise (via Cloud Connector)
