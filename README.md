@@ -1,6 +1,6 @@
 ## Extension - abap2UI5 Service Integration
 This repository enables the integration of abap2UI5 apps with the following services: 
-| SAP BTP HTML5 Repo  | SAP Build Workzone Launchpad | SAP Mobile Start |
+| SAP BTP HTML5 Repository  | SAP Build Workzone Launchpad | SAP Mobile Start |
 | ------------- | ------------- | ------------- |
 | <img width="333" alt="image" src="https://github.com/abap2UI5/ext-service_integration/assets/102328295/b6406c48-0b09-4f0e-b261-6d7f1a8892b2">  | <img width="333" alt="image" src="https://github.com/abap2UI5/ext-service_integration/assets/102328295/e6e9da75-021a-45c4-a3c5-bb471d1aedb4">  | <img width="333" alt="image" src="https://github.com/abap2UI5/ext-service_integration/assets/102328295/207d4538-ceaa-4f7d-a7f1-a15412492188"> |
 | Use your abap2UI5 apps from everywhere | Configure different start apps with a launchpad running on SAP BTP| Use your mobile device and download SAP mobile start app for apple and android |
