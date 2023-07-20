@@ -15,7 +15,7 @@ The project consists of a (generic) frontend UI5 app, which can be deployed to:
 The abap2UI5 framework & apps are accessed through an OData Service, which can connect to:
 * S/4 Public Cloud
 * SAP BTP ABAP Environment
-* S/4 R/3 On-Premise (via Cloud Connector)
+* S/4 and R/3 On-Premise (via Cloud Connector)
 
 #### Installation
 Follow these steps:
