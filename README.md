@@ -26,7 +26,7 @@ Follow these steps:
 5. [Start your app with SAP Mobile Start](https://github.com/abap2UI5/ext-service_integration/blob/main/docs/05_mobile_start_configuration.md) (optional)
    
 In on-premise scenario you can skip step (2)(4)(5) and instead:
-* C[onfigure SAP Fiori Launchpad](https://github.com/abap2UI5/ext-service_integration/blob/main/docs/90_fiori_launchpad_configuration.md)
+* [Configure SAP Fiori Launchpad](https://github.com/abap2UI5/ext-service_integration/blob/main/docs/90_fiori_launchpad_configuration.md)
 
 #### FAQ
 * your comments, questions, wishes and bugs are welcome, please create an [issue](https://github.com/abap2UI5/ext-service_integration/issues)
